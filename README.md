@@ -13,6 +13,7 @@ Construir un árbol de decisión calculando la entropía y ganancia de informaci
 ## Contenido del repositorio
 
 - `Arbol_Decision_PuntoA.ipynb` - Notebook con resolución completa del ejercicio en formato markdown
+- `Arbol_Decision_PuntoA.py` - Archivo Python con resolución completa del ejercicio
 - `README.md` - Este archivo
 
 ## Nota sobre el desarrollo
