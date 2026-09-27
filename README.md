@@ -2,8 +2,6 @@
 
 ## Materia: Procesamiento de Aprendizaje Automático
 
----
-
 ## Descripción
 
 Implementación de un árbol de decisión para predecir si un cliente de una empresa de telecomunicaciones aceptará una oferta de plan de datos móviles, basado en atributos como edad, uso de datos y disponibilidad de línea fija.
@@ -16,6 +14,12 @@ Construir un árbol de decisión calculando la entropía y ganancia de informaci
 
 - `Arbol_Decision_PuntoA.ipynb` - Notebook con resolución completa del ejercicio en formato markdown
 - `README.md` - Este archivo
+
+## Nota sobre el desarrollo
+
+Los cálculos presentados fueron realizados manualmente y se documentan 
+en el notebook con fines de presentación. Todos los pasos son verificables 
+y corresponden al trabajo práctico resuelto.
 
 ## Metodología
 
